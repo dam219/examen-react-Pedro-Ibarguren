@@ -9,7 +9,7 @@ import {
   FormControl,
   Button,
 } from 'react-bootstrap';
-class Navbar extends React.Component {
+class BarraNavegacion extends React.Component {
   constructor(props) {
     super(props);
   }
@@ -61,4 +61,4 @@ class Navbar extends React.Component {
     );
   }
 }
-export default Navbar;
+export default BarraNavegacion;

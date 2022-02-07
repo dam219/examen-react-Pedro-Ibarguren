@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import Navbar from './components/Navbar';
+import BarraNavegacion from './components/Navbar';
 import Ejercicio1 from './components/Ejercicio1';
 import Ejercicio2 from './components/Ejercicio2';
 import Ejercicio3 from './components/Ejercicio3';
@@ -8,7 +8,7 @@ import Ejercicio3 from './components/Ejercicio3';
 export default function App() {
   return (
     <>
-      <Navbar />
+      <BarraNavegacion />
       <h1>Desarrollo de Interfaces: Examen React.js </h1>
       <p>
         Resuelve los ejercicios propuestos en los distintos apartados de la
