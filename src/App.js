@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import BarraNavegacion from './components/Navbar';
+import BarraNavegacion from './components/BarraNavegacion';
 import Ejercicio1 from './components/Ejercicio1';
 import Ejercicio2 from './components/Ejercicio2';
 import Ejercicio3 from './components/Ejercicio3';
